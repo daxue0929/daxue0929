@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱🌱欢迎来到大雪的主页🌱🌱
+🌱🌱一个热爱技术的软件工程师🌱🌱
 
 <!--
 **daxue0929/daxue0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
