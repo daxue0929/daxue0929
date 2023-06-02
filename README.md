@@ -1,12 +1,12 @@
 ### Hi First 👋
 🌱🌱欢迎来到大雪的主页，我是一个热爱技术的软件工程师。🌱🌱  
 ### Second
-🔭🔭我工作or学习中大概会使用如下这些技术：
+我工作or学习中大概会使用如下这些技术：
 - java以及java web
 - goLang、gorm mysql等后端开发技术。
 - java Script脚本语言，以及html/css页面标记语言。
 ### Third
-🤔🤔我希望可以在更多的技术领域学习，and充实自己的大脑。
+🤔🤔我希望可以在更多的技术领域学习and充实自己。
 <!--
 **daxue0929/daxue0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
