@@ -6,12 +6,11 @@
 - goLang、gorm mysql等后端开发技术。
 - html/css、Scss、java Script、webpack、node js等
 ### Third
-🤔🤔我希望可以在更多的技术领域学习and充实自己。
+🤔🤔我还对更多的技术感兴趣，希望在以后可以慢慢的学习。
+
 <!--
 **daxue0929/daxue0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
