@@ -2,7 +2,7 @@
 🌱🌱欢迎来到大雪的主页，他是一个热爱技术的软件工程师。🌱🌱  
 ### Second
 我工作or学习中大概会使用如下这些技术：
-- java以及java web
+- java以及java web、Spring、Spring Cloud等
 - goLang、gorm mysql等后端开发技术。
 - html/css、Scss、java Script、webpack、node js等
 ### Third
